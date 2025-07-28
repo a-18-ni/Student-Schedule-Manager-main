@@ -801,7 +801,7 @@ export default function StudentScheduleManager() {
           </div>
         </div>
       )}
-      <footer><p className='text-center text-gray-500 py-2'>Created by Anish Kumar Singh</p></footer>
+      <footer><p className='text-center text-gray-500 py-2'>Created by Animesh</p></footer>
     </div>
   )
 }
